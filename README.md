@@ -1,14 +1,11 @@
-### Olá, eu sou Leandro Rosa 👋
+### Olá, eu sou Leandro Rosa, desenvolvedor Front-End e entusiasta de tecnologia. Seja bem vindo 👋
 
 
 
 
 
 
-- 🔭 Hoje eu trabalho com Front-End
-- 🌱 Estudando Typescript
-- 📫 Contate-me no e-mail: leandrorosa592@gmail.com
-- 😄 Pronomes: Ele/Dele
+
 
 
 <div align="center">
