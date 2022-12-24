@@ -19,7 +19,7 @@
   <img align="center" alt="Leandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Leandro-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/15bb07b2ed95acb3b704fd46a00f094e.gif.gif">
+  <img align="right" alt="Leandro-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/15bb07b2ed95acb3b704fd46a00f094e.gif">
 </div>
 
 ##
