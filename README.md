@@ -1,4 +1,5 @@
-### Olá, eu sou Leandro Rosa, desenvolvedor Front-End e entusiasta de tecnologia. Seja bem vindo 👋
+### Olá, eu sou Leandro Rosa, desenvolvedor Front-End e entusiasta de tecnologia. Seja bem vindo ao meu repositório 👋
+### Hi, i am Leandro Rosa, Front-end Developer and technology enthusiast. Welcome to my repository 👋
 
 
 
